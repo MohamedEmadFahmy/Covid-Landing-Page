@@ -26,10 +26,6 @@ window.addEventListener("scroll", function(){
   top.classList.toggle("go-to-top-icon-visible", window.scrollY > 0)
 })
 
-// function go_to_top(){
-//     window.scrollTo(x : 92 , y : 0);
-// }
-
 
 
 // copied to use for faq section
