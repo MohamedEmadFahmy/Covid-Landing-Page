@@ -1,6 +1,12 @@
 # Front-End-Project
-This is a full Front End Project.
-Made using HTML, CSS. JS.
-Fully Responsive.
 
-Link: https://mohamedemadfahmy.github.io/Covid-Landing-Page/
++ Full Front End Project about the Corona Virus Outbreak made using:
+    + HTML, CSS flexbox , JS
+    + Bootstrap
+    + JQuery
+<br>
+
++ Fully Responsive on 5 Devices including tablets and mobile phones.
+
+
+# [Online Preview](https://mohamedemadfahmy.github.io/Covid-Landing-Page/)
